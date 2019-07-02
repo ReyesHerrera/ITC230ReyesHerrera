@@ -47,4 +47,4 @@ http.createServer((req,res) => {
 //Routes --URL
 //request comes in and get routes
 
-//this tis basic routing
+//this is basic routing
